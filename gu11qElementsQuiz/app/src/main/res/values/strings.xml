@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">gu11qElementsQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="number_of_choices">Number of Choices</string>
+    <string name="number_of_choices_description">Displays 2,4,6,8,10 options</string>
+    <string name="elements">Elements</string>
+    <string name="elements_description">Elements included</string>
+    <string name="guess">Player Guess</string>
+    <string name="results">%1$d guesses, %2$.0.2f%% correct</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="default_message">You must select at least one Element. Default Animals set </string>
+    <string name="restart">Restarting quiz with new Settings</string>
+    <string name="question">%1$d out of %2$d questions</string>
+    <string name="reset">Click to Reset</string>
+    <string name="description">Description of current Element</string>
+    <string name="default_element">Animals</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+</resources>

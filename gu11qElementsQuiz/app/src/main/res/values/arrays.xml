@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Elements_list">
+
+        <item>Animals</item>
+        <item>Birds</item>
+        <item>Cars</item>
+        <item>Colours</item>
+        <item>Fish</item>
+        <item>Fruits</item>
+        <item>Plants</item>
+        <item>Vegetables</item>
+    </string-array>
+    
+    <string-array name="Elements_settings_list">
+        <item>Animals</item>
+        <item>Birds</item>
+        <item>Cars</item>
+        <item>Colours</item>
+        <item>Fish</item>
+        <item>Fruits</item>
+        <item>Plants</item>
+        <item>Vegetables</item>
+
+
+    </string-array>
+
+    <string-array name="guess_list">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+    </string-array>
+
+
+
+</resources>
